@@ -3,7 +3,9 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Mechanic_Dev)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mechanic_dev0/)
 
-![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=felipesantosf1&show_icons=true&theme=great-gatsby)
+<div>
+                
+</div>
 
 ## Tecnologias que eu uso no meu dia:
 
@@ -14,5 +16,5 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 </div><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipesantosf1)](https://github.com/anuraghazra/github-readme-stats)
+
 
