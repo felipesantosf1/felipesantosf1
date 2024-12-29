@@ -1,4 +1,4 @@
-# 💻 ### Olá! Eu sou o Felipe Santos 👋🏾 
+# 💻 ### Olá! Eu sou o Felipe 👋🏾 
 
 Bem-vindo ao meu GitHub! Sou um apaixonado por **programação**, **automação** e **projetos inovadores**. Este espaço reúne os projetos que desenvolvo durante meus estudos e também iniciativas pessoais que exploram minha criatividade e habilidades técnicas.
 
@@ -12,20 +12,24 @@ Bem-vindo ao meu GitHub! Sou um apaixonado por **programação**, **automação*
 
 ---
 
-## 🛠️ **Habilidades Técnicas**
+## 🛠️ **Minhas Tecnologias**
 
-- **Programação:**  
-  - Python (Automação, Scripts, Back-end)  
-  - HTML, CSS e JavaScript (Desenvolvimento Web)  
+- **Linguagens de Programação:**  
+  - Python (Automação, Web Scraping, Scripts)  
+  - JavaScript (Front-end e Back-end)  
+  - HTML & CSS (Desenvolvimento Web)  
+  - SQL (Gerenciamento de Banco de Dados)  
 
-- **Gestão de Dados:**  
-  - SQL para banco de dados  
+- **Ferramentas e Frameworks:**  
+  - Flask e Django para desenvolvimento web  
+  - Git e GitHub para controle de versão  
+  - APIs RESTful e integração de sistemas  
 
 ---
 
 ## 🎥 **Confira meu Canal no YouTube**
 
-- 🌟 No **[Estilo Algoritmo](https://youtube.com/c/estiloalgoritmo)**, você encontra:
+- 🌟 No **[Mechanic Dev](https://www.youtube.com/@Mechanic_Dev)**, você encontra:
   - Tutoriais práticos de Python e JavaScript  
   - Dicas para melhorar a produtividade no desenvolvimento   
 
@@ -36,15 +40,8 @@ Bem-vindo ao meu GitHub! Sou um apaixonado por **programação**, **automação*
 ## 🌍 **Contato**
 
 - 📧 **E-mail:** [felipesantosf367@gmail.com
-](mailto:seuemail@gmail.com)
+](mailto:felipesantosf367@gmail.com)
 - 📺 YouTube: [Mechanic Dev](https://www.youtube.com/@Mechanic_Dev)
-
----
-
-## 🏆 **Objetivos Futuros**
-
-- Explorar soluções com Inteligência Artificial    
-- Contribuir para a criação de ferramentas open-source  
 
 ---
 
