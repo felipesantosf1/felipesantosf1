@@ -26,7 +26,8 @@ Bem-vindo ao meu GitHub! Sou um apaixonado por **programação**, **automação*
 ## 🌍 **Contato**
 
 - 📧 **E-mail:** [felipesantosf367@gmail.com
-](mailto:seuemail@gmail.com)  
+](mailto:seuemail@gmail.com)
+- 📺 YouTube: [Estilo Algoritmo](www.youtube.com/@Mechanic_Dev)
 
 ---
 
