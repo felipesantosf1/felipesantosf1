@@ -23,11 +23,21 @@ Bem-vindo ao meu GitHub! Sou um apaixonado por **programação**, **automação*
 
 ---
 
+## 🎥 **Confira meu Canal no YouTube**
+
+- 🌟 No **[Estilo Algoritmo](https://youtube.com/c/estiloalgoritmo)**, você encontra:
+  - Tutoriais práticos de Python e JavaScript  
+  - Dicas para melhorar a produtividade no desenvolvimento   
+
+👉 **Inscreva-se para mais conteúdo!**
+
+---
+
 ## 🌍 **Contato**
 
 - 📧 **E-mail:** [felipesantosf367@gmail.com
 ](mailto:seuemail@gmail.com)
-- 📺 YouTube: [Estilo Algoritmo](www.youtube.com/@Mechanic_Dev)
+- 📺 YouTube: [Mechanic Dev]([(https://www.youtube.com/@Mechanic_Dev)])
 
 ---
 
@@ -38,5 +48,5 @@ Bem-vindo ao meu GitHub! Sou um apaixonado por **programação**, **automação*
 
 ---
 
-⭐ **Se você gostou dos meus projetos, não se esqueça de dar uma estrela!**  
-📫 **Estou sempre aberto a colaborações e novos desafios.**
+⭐ **Gostou do que viu? Deixe uma estrela nos repositórios e compartilhe sua opinião!**  
+📫 **Estou sempre aberto a colaborações e novos desafios na programação.**
