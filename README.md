@@ -6,9 +6,9 @@ Bem-vindo ao meu GitHub! Sou um apaixonado por **programação**, **automação*
 
 ## 🌟 **Sobre Mim**
 
-- ⚙️ Interesse em Automação e Sistemas Inteligentes  
-- 🖥️ Experiência em programação com **Python**, **HTML**, **CSS**, **JavaScript**   
-- 🎯 Foco em soluções práticas e acessíveis, especialmente para comunidades  
+- 🚀 Desenvolvedor com experiência em **Python**, **JavaScript**, **HTML**, **CSS** e **SQL**  
+- 📺 Criador do canal **[Estilo Algoritmo](https://www.youtube.com/@Mechanic_Dev)**, onde compartilho dicas, tutoriais e projetos práticos para programadores  
+- 💡 Focado em criar projetos que combinam simplicidade, funcionalidade e aprendizado contínuo  
 
 ---
 
