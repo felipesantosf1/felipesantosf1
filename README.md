@@ -7,7 +7,7 @@ Bem-vindo ao meu GitHub! Sou um apaixonado por **programação**, **automação*
 ## 🌟 **Sobre Mim**
 
 - 🚀 Desenvolvedor com experiência em **Python**, **JavaScript**, **HTML**, **CSS** e **SQL**  
-- 📺 Criador do canal **[Estilo Algoritmo](https://www.youtube.com/@Mechanic_Dev)**, onde compartilho dicas, tutoriais e projetos práticos para programadores  
+- 📺 Criador do canal **[Mechanic Dev](https://www.youtube.com/@Mechanic_Dev)**, onde compartilho dicas, tutoriais e projetos práticos para programadores  
 - 💡 Focado em criar projetos que combinam simplicidade, funcionalidade e aprendizado contínuo  
 
 ---
@@ -37,7 +37,7 @@ Bem-vindo ao meu GitHub! Sou um apaixonado por **programação**, **automação*
 
 - 📧 **E-mail:** [felipesantosf367@gmail.com
 ](mailto:seuemail@gmail.com)
-- 📺 YouTube: [Mechanic Dev]([(https://www.youtube.com/@Mechanic_Dev)])
+- 📺 YouTube: [Mechanic Dev](https://www.youtube.com/@Mechanic_Dev)
 
 ---
 
