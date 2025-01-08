@@ -41,6 +41,7 @@ Bem-vindo ao meu GitHub! Sou um apaixonado por **programação**, **automação*
 
 - 📧 **E-mail:** [felipesantosf367@gmail.com
 ](mailto:felipesantosf367@gmail.com)
+- 📷 Instagram: [@mechanic_dev0](https://www.instagram.com/mechanic_dev0)
 - 📺 YouTube: [Mechanic Dev](https://www.youtube.com/@Mechanic_Dev)
 - 🛒Loja de camisetas para programadores: [Estilo Algoritmo](https://reserva.ink/estiloalgoritmo)
 
