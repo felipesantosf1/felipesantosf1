@@ -1,10 +1,8 @@
-<!-- CAPA: para usar a capa do seu canal, salve a imagem em assets/banner.png no repositório
-     e troque a tag <img> abaixo por: <img src="assets/banner.png" alt="Mechanic Dev" width="100%" /> -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:FF8C00&height=220&section=header&text=Felipe%20Santos&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack&descSize=22&descAlignY=60&descColor=FFB347" alt="Felipe Santos - Desenvolvedor Full Stack" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=FF8C00&center=true&vCenter=true&width=560&lines=Desenvolvedor+Full+Stack;Python+e+JavaScript+do+banco+%C3%A0+interface;Em+busca+da+primeira+oportunidade+j%C3%BAnior" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=FF8C00&center=true&vCenter=true&width=560&lines=Desenvolvedor+Full+Stack;Do+banco+de+dados+ate+a+interface;" alt="Typing SVG" />
 
 <br/><br/>
 
