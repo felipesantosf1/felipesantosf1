@@ -110,7 +110,7 @@ Estou em busca de uma **oportunidade júnior** para contribuir com projetos reai
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img width="100%" src="https://raw.githubusercontent.com/felipesantosf1/felipesantosf1/output/github-snake-dark.svg" alt="Contribuições no GitHub" />
+      <img width="100%" src="https://raw.githubusercontent.com/felipesantosf1/felipesantosf1/output/github-contribution-grid-snake.svg" alt="Contribuições no GitHub" />
     </td>
   </tr>
 </table>
