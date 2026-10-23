@@ -16,7 +16,7 @@
 
 ## Sobre mim
 
-Oi, eu sou o Felipe! Sou desenvolvedor autodidata e aprendi programar construindo meus proprios projetos, errando, corrigindo e repetindo.
+Oi, eu sou o Felipe! Sou desenvolvedor autodidata que aprendeu a programar construindo meus proprios projetos, errando, corrigindo e repetindo.
 
 Estou em busca de uma **oportunidade júnior** para contribuir com projetos reais, aprender e continuar evoluindo.
 
