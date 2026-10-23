@@ -1,18 +1,16 @@
+<!-- CAPA: para usar a capa do seu canal, salve a imagem em assets/banner.png no repositório
+     e troque a tag <img> abaixo por: <img src="assets/banner.png" alt="Mechanic Dev" width="100%" /> -->
 <div align="center">
 
-# Felipe Santos
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:FF8C00&height=220&section=header&text=Felipe%20Santos&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack&descSize=22&descAlignY=60&descColor=FFB347" alt="Felipe Santos - Desenvolvedor Full Stack" width="100%" />
 
-**Desenvolvedor Python & JavaScript · Automação · Web · Criador de conteúdo tech**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=FF8C00&center=true&vCenter=true&width=560&lines=Desenvolvedor+Full+Stack;Python+e+JavaScript+do+banco+%C3%A0+interface;Em+busca+da+primeira+oportunidade+j%C3%BAnior" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Python+%7C+JavaScript+%7C+SQL;Automa%C3%A7%C3%A3o+e+Web+Scraping;APIs+REST+com+Flask+e+Django;Criador+do+canal+Mechanic+Dev" alt="Typing SVG" />
+<br/><br/>
 
-<br/>
-
-[![YouTube](https://img.shields.io/badge/YouTube-Mechanic%20Dev-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Mechanic_Dev)
-[![Instagram](https://img.shields.io/badge/Instagram-@mechanic__dev0-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mechanic_dev0)
-[![Email](https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipesantosf367@gmail.com)
-
-![Visitas](https://komarev.com/ghpvc/?username=felipesantosf1&label=Visitas&color=58a6ff&style=flat-square)
+<a href="https://www.youtube.com/@Mechanic_Dev"><img src="https://img.shields.io/badge/YouTube-Mechanic%20Dev-FF8C00?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0D1117" alt="YouTube" /></a>
+<a href="https://www.instagram.com/mechanic_dev0"><img src="https://img.shields.io/badge/Instagram-@mechanic__dev0-FF8C00?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117" alt="Instagram" /></a>
+<a href="mailto:felipesantosf367@gmail.com"><img src="https://img.shields.io/badge/Email-Contato-FF8C00?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" /></a>
 
 </div>
 
@@ -20,96 +18,122 @@
 
 ## Sobre mim
 
-Sou desenvolvedor focado em **automação**, **web** e **backend**. Gosto de transformar tarefas repetitivas em scripts e ideias em produtos funcionais, e de ensinar o que aprendo no caminho.
+Oi, eu sou o Felipe! Sou desenvolvedor autodidata e aprendi programar construindo meus proprios projetos, errando, corrigindo e repetindo.
 
-- Construo automações, scrapers e APIs com **Python**
-- Desenvolvo interfaces e integrações com **JavaScript**, **HTML** e **CSS**
-- Crio conteúdo para programadores no canal **[Mechanic Dev](https://www.youtube.com/@Mechanic_Dev)**
-- Estudando agora: **TODO: ex. Docker, testes automatizados, arquitetura de APIs**
-- Aberto a vagas, freelas e colaborações em projetos open source
+Estou em busca de uma **oportunidade júnior** para contribuir com projetos reais, aprender e continuar evoluindo.
 
 ---
 
 ## Stack
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,js,html,css,sql,flask,django,git,github,vscode&theme=dark" alt="Tecnologias" />
-
-</div>
-
-| Área | Tecnologias |
-| --- | --- |
-| **Linguagens** | Python, JavaScript, SQL, HTML, CSS |
-| **Backend** | Flask, Django, APIs RESTful |
-| **Automação** | Scripts, Web Scraping, integração de sistemas |
-| **Ferramentas** | Git, GitHub, VS Code |
+<table width="100%">
+  <tr>
+    <td width="22%" align="left"><b>Front-end</b></td>
+    <td width="78%" align="left">
+      <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=FF8C00" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=FF8C00" alt="HTML5" />
+      <img src="https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=FF8C00" alt="CSS3" />
+    </td>
+  </tr>
+  <tr>
+    <td align="left"><b>Back-end</b></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=FF8C00" alt="Python" />
+      <img src="https://img.shields.io/badge/-Flask-0D1117?style=for-the-badge&logo=flask&logoColor=FF8C00" alt="Flask" />
+      <img src="https://img.shields.io/badge/-Django-0D1117?style=for-the-badge&logo=django&logoColor=FF8C00" alt="Django" />
+      <img src="https://img.shields.io/badge/-REST%20APIs-0D1117?style=for-the-badge&logo=fastapi&logoColor=FF8C00" alt="REST APIs" />
+    </td>
+  </tr>
+  <tr>
+    <td align="left"><b>Dados</b></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=FF8C00" alt="SQL" />
+    </td>
+  </tr>
+  <tr>
+    <td align="left"><b>Ferramentas</b></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&logoColor=FF8C00" alt="Git" />
+      <img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FF8C00" alt="GitHub" />
+      <img src="https://img.shields.io/badge/-VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=FF8C00" alt="VS Code" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## Projetos em destaque
 
-> Substitua os campos abaixo pelos seus melhores repositórios.
+<!-- Troque os nomes, links, descrições e badges pelos seus melhores repositórios. -->
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/felipesantosf1/NOME-DO-REPO-1">Nome do Projeto 1</a></h3>
-      <p>Uma frase explicando o problema que resolve e para quem.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-      </p>
+      <p>Uma frase sobre o problema que resolve e para quem.</p>
+      <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=FF8C00" alt="Python" />
+      <img src="https://img.shields.io/badge/Flask-0D1117?style=flat-square&logo=flask&logoColor=FF8C00" alt="Flask" />
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/felipesantosf1/NOME-DO-REPO-2">Nome do Projeto 2</a></h3>
-      <p>Uma frase explicando o problema que resolve e para quem.</p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-      </p>
+      <p>Uma frase sobre o problema que resolve e para quem.</p>
+      <img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=FF8C00" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=FF8C00" alt="HTML5" />
     </td>
   </tr>
-  <!-- repita o bloco <tr> para os projetos 3 e 4 -->
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/felipesantosf1/NOME-DO-REPO-3">Nome do Projeto 3</a></h3>
+      <p>Uma frase sobre o problema que resolve e para quem.</p>
+      <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=FF8C00" alt="Python" />
+      <img src="https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=postgresql&logoColor=FF8C00" alt="SQL" />
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/felipesantosf1/NOME-DO-REPO-4">Nome do Projeto 4</a></h3>
+      <p>Uma frase sobre o problema que resolve e para quem.</p>
+      <img src="https://img.shields.io/badge/Django-0D1117?style=flat-square&logo=django&logoColor=FF8C00" alt="Django" />
+      <img src="https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=FF8C00" alt="CSS3" />
+    </td>
+  </tr>
 </table>
 
 ---
 
 ## Estatísticas do GitHub
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=felipesantosf1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesantosf1&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=felipesantosf1&theme=tokyonight&hide_border=true" alt="Sequência de contribuições" />
-
-</div>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <img height="180" src="https://github-readme-stats.vercel.app/api?username=felipesantosf1&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=FF8C00&icon_color=FF8C00&text_color=C9D1D9&ring_color=FF8C00" alt="Estatísticas do GitHub" />
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesantosf1&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF8C00&text_color=C9D1D9" alt="Linguagens mais usadas" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=felipesantosf1&bg_color=0D1117&color=FF8C00&line=FF8C00&point=FFFFFF&area=true&area_color=FF8C00&hide_border=true" alt="Gráfico de atividade" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## Mechanic Dev
 
-Meu canal no YouTube é onde compartilho o que aprendo:
-
-- Tutoriais práticos de **Python** e **JavaScript**
-- Projetos do zero, do código à publicação
-- Dicas de produtividade para quem programa
-
-[![Inscreva-se](https://img.shields.io/badge/Inscreva--se%20no%20canal-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Mechanic_Dev)
-
-Também tenho a **[Estilo Algoritmo](https://reserva.ink/estiloalgoritmo)**, uma loja de camisetas para programadores.
-
----
-
-## Vamos conversar
+Meu canal e meu Instagram são onde eu compartilho o que aprendo sobre **Python**: tutoriais, projetos e dicas para quem está começando a programar.
 
 <div align="center">
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Mechanic_Dev)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mechanic_dev0)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipesantosf367@gmail.com)
+<a href="https://www.youtube.com/@Mechanic_Dev"><img src="https://img.shields.io/badge/Inscreva--se%20no%20canal-FF8C00?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0D1117" alt="Inscreva-se no canal" /></a>
+<a href="https://www.instagram.com/mechanic_dev0"><img src="https://img.shields.io/badge/Instagram-FF8C00?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117" alt="Instagram" /></a>
 
-*Se algum projeto seu ou meu te ajudou, deixe uma estrela. Isso ajuda muito.*
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8C00,100:0D1117&height=100&section=footer" alt="" width="100%" />
 
 </div>
