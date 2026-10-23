@@ -67,30 +67,25 @@ Estou em busca de uma **oportunidade júnior** para contribuir com projetos reai
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/felipesantosf1/NOME-DO-REPO-1">Nome do Projeto 1</a></h3>
-      <p>Uma frase sobre o problema que resolve e para quem.</p>
-      <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=FF8C00" alt="Python" />
-      <img src="https://img.shields.io/badge/Flask-0D1117?style=flat-square&logo=flask&logoColor=FF8C00" alt="Flask" />
+      <h3><a href="https://github.com/felipesantosf1/NexusV2">NexusV2</a></h3>
+      <p><b>Gestão de projetos full stack.</b> Matrizes RACI, cronogramas com Gantt e workspaces com convites e papéis de acesso (dono, editor e outros). Login pelo Supabase e sincronização automática entre os integrantes da equipe.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=FF8C00" alt="Python" />
+        <img src="https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=FF8C00" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=FF8C00" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/Supabase-0D1117?style=flat-square&logo=supabase&logoColor=FF8C00" alt="Supabase" />
+        <img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=FF8C00" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=FF8C00" alt="HTML5" />
+        <img src="https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=FF8C00" alt="CSS3" />
+      </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/felipesantosf1/NOME-DO-REPO-2">Nome do Projeto 2</a></h3>
-      <p>Uma frase sobre o problema que resolve e para quem.</p>
-      <img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=FF8C00" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=FF8C00" alt="HTML5" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/felipesantosf1/NOME-DO-REPO-3">Nome do Projeto 3</a></h3>
-      <p>Uma frase sobre o problema que resolve e para quem.</p>
-      <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=FF8C00" alt="Python" />
-      <img src="https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=postgresql&logoColor=FF8C00" alt="SQL" />
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/felipesantosf1/NOME-DO-REPO-4">Nome do Projeto 4</a></h3>
-      <p>Uma frase sobre o problema que resolve e para quem.</p>
-      <img src="https://img.shields.io/badge/Django-0D1117?style=flat-square&logo=django&logoColor=FF8C00" alt="Django" />
-      <img src="https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=FF8C00" alt="CSS3" />
+      <h3><a href="https://github.com/felipesantosf1/NOVA">NOVA</a></h3>
+      <p><b>Assistente virtual pessoal no terminal.</b> Conversa em português com uma IA que roda localmente pelo Ollama, mantém o contexto da conversa e trata erros de conexão e de modelo com mensagens claras.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=FF8C00" alt="Python" />
+        <img src="https://img.shields.io/badge/Ollama-0D1117?style=flat-square&logo=ollama&logoColor=FF8C00" alt="Ollama" />
+      </p>
     </td>
   </tr>
 </table>
