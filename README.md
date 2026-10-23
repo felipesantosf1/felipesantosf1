@@ -68,7 +68,7 @@ Estou em busca de uma **oportunidade júnior** para contribuir com projetos reai
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/felipesantosf1/NexusV2">NexusV2</a></h3>
-      <p><b>Gestão de projetos full stack.</b> Matrizes RACI, cronogramas com Gantt e workspaces com convites e papéis de acesso (dono, editor e outros). Login pelo Supabase e sincronização automática entre os integrantes da equipe.</p>
+      <p><b>Gestão de projetos full stack.</b> Site de gerenciamento de projetos e tarefas.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=FF8C00" alt="Python" />
         <img src="https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=FF8C00" alt="FastAPI" />
@@ -81,7 +81,7 @@ Estou em busca de uma **oportunidade júnior** para contribuir com projetos reai
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/felipesantosf1/NOVA">NOVA</a></h3>
-      <p><b>Assistente virtual pessoal no terminal.</b> Conversa em português com uma IA que roda localmente pelo Ollama, mantém o contexto da conversa e trata erros de conexão e de modelo com mensagens claras.</p>
+      <p><b>Assistente virtual pessoal.</b> An AI-powered personal assistant with conversational capabilities, persistent memory, and task automation.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=FF8C00" alt="Python" />
         <img src="https://img.shields.io/badge/Ollama-0D1117?style=flat-square&logo=ollama&logoColor=FF8C00" alt="Ollama" />
