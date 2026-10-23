@@ -110,7 +110,7 @@ Estou em busca de uma **oportunidade júnior** para contribuir com projetos reai
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=felipesantosf1&bg_color=0D1117&color=FF8C00&line=FF8C00&point=FFFFFF&area=true&area_color=FF8C00&hide_border=true" alt="Gráfico de atividade" />
+      <img width="100%" src="https://raw.githubusercontent.com/felipesantosf1/felipesantosf1/output/github-snake-dark.svg" alt="Contribuições no GitHub" />
     </td>
   </tr>
 </table>
