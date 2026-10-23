@@ -16,9 +16,9 @@
 
 ## Sobre mim
 
-Oi, eu sou o Felipe! Sou desenvolvedor autodidata que aprendeu a programar construindo meus proprios projetos, errando, corrigindo e repetindo.
+Hi, I'm Felipe! I'm a self-taught developer who learned to code by building my own projects, making mistakes, fixing them and repeating.
 
-Estou em busca de uma **oportunidade júnior** para contribuir com projetos reais, aprender e continuar evoluindo.
+I'm looking for a **junior opportunity** to contribute to real projects, keep learning and keep growing.
 
 ---
 
