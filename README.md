@@ -44,13 +44,13 @@ I'm looking for a **junior opportunity** to contribute to real projects, keep le
     </td>
   </tr>
   <tr>
-    <td align="left"><b>Dados</b></td>
+    <td align="left"><b>Data</b></td>
     <td align="left">
       <img src="https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=FF8C00" alt="SQL" />
     </td>
   </tr>
   <tr>
-    <td align="left"><b>Ferramentas</b></td>
+    <td align="left"><b>Tools</b></td>
     <td align="left">
       <img src="https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&logoColor=FF8C00" alt="Git" />
       <img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FF8C00" alt="GitHub" />
