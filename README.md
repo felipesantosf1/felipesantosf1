@@ -9,7 +9,7 @@ Developer Full Stack" width="100%" />
 
 <a href="https://www.youtube.com/@Mechanic_Dev"><img src="https://img.shields.io/badge/YouTube-Mechanic%20Dev-FF8C00?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0D1117" alt="YouTube" /></a>
 <a href="https://www.instagram.com/mechanic_dev0"><img src="https://img.shields.io/badge/Instagram-@mechanic__dev0-FF8C00?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117" alt="Instagram" /></a>
-<a href="mailto:felipesantosf367@gmail.com"><img src="https://img.shields.io/badge/Email-Contato-FF8C00?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" /></a>
+<a href="mailto:felipesantosf367@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-FF8C00?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" /></a>
 
 </div>
 
