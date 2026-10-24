@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:FF8C00&height=220&section=header&text=Felipe%20Santos&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack&descSize=22&descAlignY=60&descColor=FFB347" alt="Felipe Santos - 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:FF8C00&height=220&section=header&text=Felipe%20Santos&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Developer%20Full%20Stack&descSize=22&descAlignY=60&descColor=FFB347" alt="Felipe Santos - 
 Developer Full Stack" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=FF8C00&center=true&vCenter=true&width=560&lines=Developer+Full+Stack;From+the+database+to+the+interface;" alt="Typing SVG" />
