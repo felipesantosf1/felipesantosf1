@@ -68,7 +68,7 @@ I'm looking for a **junior opportunity** to contribute to real projects, keep le
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/felipesantosf1/NexusV2">NexusV2</a></h3>
-      <p><b>Gestão de projetos full stack.</b> Site de gerenciamento de projetos e tarefas.</p>
+      <p><b>Full stack project management</b><br/>Web app to manage projects and tasks.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=FF8C00" alt="Python" />
         <img src="https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=FF8C00" alt="FastAPI" />
@@ -81,7 +81,7 @@ I'm looking for a **junior opportunity** to contribute to real projects, keep le
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/felipesantosf1/NOVA">NOVA</a></h3>
-      <p><b>Assistente virtual pessoal.</b> An AI-powered personal assistant with conversational capabilities, persistent memory, and task automation.</p>
+      <p><b>Personal virtual assistant</b> <br/>An AI-powered personal assistant with conversational capabilities, persistent memory, and task automation.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=FF8C00" alt="Python" />
         <img src="https://img.shields.io/badge/Ollama-0D1117?style=flat-square&logo=ollama&logoColor=FF8C00" alt="Ollama" />
