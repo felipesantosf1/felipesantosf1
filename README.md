@@ -15,7 +15,7 @@ Developer Full Stack" width="100%" />
 
 ---
 
-## Sobre mim
+## About me
 
 Hi, I'm Felipe! I'm a self-taught developer who learned to code by building my own projects, making mistakes, fixing them and repeating.
 
@@ -61,7 +61,7 @@ I'm looking for a **junior opportunity** to contribute to real projects, keep le
 
 ---
 
-## Projetos em destaque
+## Featured projects
 
 <!-- Troque os nomes, links, descrições e badges pelos seus melhores repositórios. -->
 
@@ -93,7 +93,7 @@ I'm looking for a **junior opportunity** to contribute to real projects, keep le
 
 ---
 
-## Estatísticas do GitHub
+## GitHub Stats
 
 <table width="100%">
   <tr>
