@@ -114,7 +114,7 @@ I'm looking for a **junior opportunity** to contribute to real projects, keep le
 
 ## Mechanic Dev
 
-Meu canal e meu Instagram são onde eu compartilho o que aprendo sobre **Python**: tutoriais, projetos e dicas para quem está começando a programar.
+My YouTube channel and Instagram are where I share what I learn about **Python**: tutorials, projects, and tips for people who are just starting to code.
 
 <div align="center">
 
