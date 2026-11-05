@@ -95,10 +95,10 @@ I'm looking for a **junior opportunity** to contribute to real projects, keep le
 <table width="100%">
   <tr>
     <td width="50%" align="center" valign="middle">
-      <img height="180" src="https://github-readme-stats.vercel.app/api?username=felipesantosf1&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=FF8C00&icon_color=FF8C00&text_color=C9D1D9&ring_color=FF8C00" alt="Estatísticas do GitHub" />
+      <img height="180" src="https://github-readme-stats-three-olive-37.vercel.app/api?username=felipesantosf1&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=FF8C00&icon_color=FF8C00&text_color=C9D1D9&ring_color=FF8C00" alt="Estatísticas do GitHub" />
     </td>
     <td width="50%" align="center" valign="middle">
-      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesantosf1&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF8C00&text_color=C9D1D9" alt="Linguagens mais usadas" />
+      <img height="180" src="https://github-readme-stats-three-olive-37.vercel.app/api/top-langs/?username=felipesantosf1&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF8C00&text_color=C9D1D9" alt="Linguagens mais usadas" />
     </td>
   </tr>
   <tr>
